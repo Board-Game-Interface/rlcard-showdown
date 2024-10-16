@@ -1,0 +1,23 @@
+.git
+*Dockerfile*
+*docker-compose*
+node_modules
+__pycache__
+package-lock.json
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+douzero_pretrained
+dmc_pretrained
