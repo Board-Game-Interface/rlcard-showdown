@@ -2,7 +2,8 @@ rlcard[torch]
 Django
 tqdm
 django-cors-headers
-flask==1.1
+flask==2.1
+Werkzeug==2.2.2
 flask-cors
 onnx
 onnxruntime
